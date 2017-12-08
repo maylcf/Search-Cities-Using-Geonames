@@ -6,4 +6,10 @@ To use this application, you need to change the username located on the Utils/Ge
 
 If you don't have an username, you can create one for free at http://www.geonames.org/login
 
+  
+
+![ScreenShot](https://github.com/maylcf/Search-Cities-Using-Geonames/blob/master/app.gif)
+
+
+
 
